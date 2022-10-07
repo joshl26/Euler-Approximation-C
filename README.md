@@ -1,4 +1,4 @@
-# Euler-Test
+# Euler-Approximation-C++
 
 Task
 We want to calculate the shape of an unknown curve which starts at a given point
