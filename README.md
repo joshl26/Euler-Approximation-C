@@ -31,3 +31,10 @@ Relative errors = [0.0,0.02.,0.04..,0.04..,0.04..,0.03..,0.03..,0.02..,0.01..,0.
 ex_euler(17) should return: 0.015193 (from 0.015193336263370796)
 Reference
 Ref: https://en.wikipedia.org/wiki/Euler_method
+
+![image](https://user-images.githubusercontent.com/100108069/194638024-15cf2da8-89ba-4f86-899e-5a421c6628e6.png)
+
+
+
+Below comparison between approximation (red curve) and exact solution (blue curve) for n=100:
+![image](https://user-images.githubusercontent.com/100108069/194638054-a155f7f6-727a-4e1c-ab30-e2af76e97670.png)
