@@ -1,6 +1,5 @@
 # Euler-Approximation-C++
 
-Task
 We want to calculate the shape of an unknown curve which starts at a given point with a given slope.
 
 This curve satisfies an ordinary differential equation (ODE): dy/dx = f(x, y(x)) with y(x0) = y0.
